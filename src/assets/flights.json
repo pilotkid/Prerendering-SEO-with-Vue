@@ -1,0 +1,4992 @@
+[
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B55",
+            "delay": 27,
+            "scheduled": "2022-01-31T13:25:00+00:00",
+            "estimated": "2022-01-31T13:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Montrose Regional Airport",
+            "timezone": "America/Denver",
+            "iata": "MTJ",
+            "icao": "KMTJ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T14:34:00+00:00",
+            "estimated": "2022-01-31T14:34:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "4672",
+            "iata": "UA4672",
+            "icao": "UAL4672",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A30",
+            "delay": 21,
+            "scheduled": "2022-01-31T16:33:00+00:00",
+            "estimated": "2022-01-31T16:33:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Seattle-Tacoma International",
+            "timezone": "America/Los_Angeles",
+            "iata": "SEA",
+            "icao": "KSEA",
+            "terminal": null,
+            "gate": "B15",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T18:44:00+00:00",
+            "estimated": "2022-01-31T18:44:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        },
+        "flight": {
+            "number": "6891",
+            "iata": "WS6891",
+            "icao": "WJA6891",
+            "codeshared": {
+                "airline_name": "delta air lines",
+                "airline_iata": "dl",
+                "airline_icao": "dal",
+                "flight_number": "3531",
+                "flight_iata": "dl3531",
+                "flight_icao": "dal3531"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B25",
+            "delay": 13,
+            "scheduled": "2022-01-31T13:39:00+00:00",
+            "estimated": "2022-01-31T13:39:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "1",
+            "gate": "C22",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2022-01-31T17:10:00+00:00",
+            "estimated": "2022-01-31T17:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5780",
+            "iata": "AC5780",
+            "icao": "ACA5780",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "540",
+                "flight_iata": "ua540",
+                "flight_icao": "ual540"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C47",
+            "delay": 14,
+            "scheduled": "2022-01-31T12:25:00+00:00",
+            "estimated": "2022-01-31T12:25:00+00:00",
+            "actual": "2022-01-31T12:38:00+00:00",
+            "estimated_runway": "2022-01-31T12:38:00+00:00",
+            "actual_runway": "2022-01-31T12:38:00+00:00"
+        },
+        "arrival": {
+            "airport": "Bob Hope",
+            "timezone": "America/Los_Angeles",
+            "iata": "BUR",
+            "icao": "KBUR",
+            "terminal": "A",
+            "gate": "4",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T14:00:00+00:00",
+            "estimated": "2022-01-31T14:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "574",
+            "iata": "WN574",
+            "icao": "SWA574",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B47",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Austin-bergstrom International",
+            "timezone": "America/Chicago",
+            "iata": "AUS",
+            "icao": "KAUS",
+            "terminal": "S",
+            "gate": "31",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2022-01-31T20:58:00+00:00",
+            "estimated": "2022-01-31T20:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "4962",
+            "iata": "AC4962",
+            "icao": "ACA4962",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "366",
+                "flight_iata": "ua366",
+                "flight_icao": "ual366"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B17",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:33:00+00:00",
+            "estimated": "2022-01-31T17:33:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "La Guardia",
+            "timezone": "America/New_York",
+            "iata": "LGA",
+            "icao": "KLGA",
+            "terminal": "B",
+            "gate": "47",
+            "baggage": "7",
+            "delay": null,
+            "scheduled": "2022-01-31T23:14:00+00:00",
+            "estimated": "2022-01-31T23:14:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1554",
+            "iata": "UA1554",
+            "icao": "UAL1554",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A77",
+            "delay": 21,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Hector Field",
+            "timezone": "America/Chicago",
+            "iata": "FAR",
+            "icao": "KFAR",
+            "terminal": null,
+            "gate": "4",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:50:00+00:00",
+            "estimated": "2022-01-31T20:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Copa Airlines",
+            "iata": "CM",
+            "icao": "CMP"
+        },
+        "flight": {
+            "number": "1047",
+            "iata": "CM1047",
+            "icao": "CMP1047",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "5589",
+                "flight_iata": "ua5589",
+                "flight_icao": "ual5589"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B86",
+            "delay": 21,
+            "scheduled": "2022-01-31T17:40:00+00:00",
+            "estimated": "2022-01-31T17:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mid-Continent",
+            "timezone": "America/Chicago",
+            "iata": "ICT",
+            "icao": "KICT",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:12:00+00:00",
+            "estimated": "2022-01-31T20:12:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        },
+        "flight": {
+            "number": "8904",
+            "iata": "LH8904",
+            "icao": "DLH8904",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "4245",
+                "flight_iata": "ua4245",
+                "flight_icao": "ual4245"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B86",
+            "delay": 21,
+            "scheduled": "2022-01-31T17:40:00+00:00",
+            "estimated": "2022-01-31T17:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mid-Continent",
+            "timezone": "America/Chicago",
+            "iata": "ICT",
+            "icao": "KICT",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:12:00+00:00",
+            "estimated": "2022-01-31T20:12:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "4203",
+            "iata": "AC4203",
+            "icao": "ACA4203",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "4245",
+                "flight_iata": "ua4245",
+                "flight_icao": "ual4245"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A34",
+            "delay": 13,
+            "scheduled": "2022-01-31T17:32:00+00:00",
+            "estimated": "2022-01-31T17:32:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "John Wayne",
+            "timezone": "America/Los_Angeles",
+            "iata": "SNA",
+            "icao": "KSNA",
+            "terminal": "C",
+            "gate": "15",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2022-01-31T19:04:00+00:00",
+            "estimated": "2022-01-31T19:04:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        },
+        "flight": {
+            "number": "2670",
+            "iata": "Y42670",
+            "icao": "VOI2670",
+            "codeshared": {
+                "airline_name": "frontier airlines",
+                "airline_iata": "f9",
+                "airline_icao": "fft",
+                "flight_number": "583",
+                "flight_iata": "f9583",
+                "flight_icao": "fft583"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A51",
+            "delay": 3,
+            "scheduled": "2022-01-31T01:12:00+00:00",
+            "estimated": "2022-01-31T01:12:00+00:00",
+            "actual": "2022-01-31T01:14:00+00:00",
+            "estimated_runway": "2022-01-31T01:14:00+00:00",
+            "actual_runway": "2022-01-31T01:14:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charlotte Douglas",
+            "timezone": "America/New_York",
+            "iata": "CLT",
+            "icao": "KCLT",
+            "terminal": "3",
+            "gate": "B14",
+            "baggage": "B",
+            "delay": null,
+            "scheduled": "2022-01-31T06:17:00+00:00",
+            "estimated": "2022-01-31T06:17:00+00:00",
+            "actual": "2022-01-31T05:45:00+00:00",
+            "estimated_runway": "2022-01-31T05:45:00+00:00",
+            "actual_runway": "2022-01-31T05:45:00+00:00"
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1654",
+            "iata": "AA1654",
+            "icao": "AAL1654",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A48",
+            "delay": 22,
+            "scheduled": "2022-01-31T13:02:00+00:00",
+            "estimated": "2022-01-31T13:02:00+00:00",
+            "actual": "2022-01-31T13:01:00+00:00",
+            "estimated_runway": "2022-01-31T13:01:00+00:00",
+            "actual_runway": "2022-01-31T13:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "3",
+            "gate": "H17",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T16:35:00+00:00",
+            "estimated": "2022-01-31T16:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        },
+        "flight": {
+            "number": "4370",
+            "iata": "GF4370",
+            "icao": "GFA4370",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2368",
+                "flight_iata": "aa2368",
+                "flight_icao": "aal2368"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A48",
+            "delay": 22,
+            "scheduled": "2022-01-31T13:02:00+00:00",
+            "estimated": "2022-01-31T13:02:00+00:00",
+            "actual": "2022-01-31T13:01:00+00:00",
+            "estimated_runway": "2022-01-31T13:01:00+00:00",
+            "actual_runway": "2022-01-31T13:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "3",
+            "gate": "H17",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T16:35:00+00:00",
+            "estimated": "2022-01-31T16:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2453",
+            "iata": "QR2453",
+            "icao": "QTR2453",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2368",
+                "flight_iata": "aa2368",
+                "flight_icao": "aal2368"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A48",
+            "delay": 22,
+            "scheduled": "2022-01-31T13:02:00+00:00",
+            "estimated": "2022-01-31T13:02:00+00:00",
+            "actual": "2022-01-31T13:01:00+00:00",
+            "estimated_runway": "2022-01-31T13:01:00+00:00",
+            "actual_runway": "2022-01-31T13:01:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "3",
+            "gate": "H17",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T16:35:00+00:00",
+            "estimated": "2022-01-31T16:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Royal Jordanian",
+            "iata": "RJ",
+            "icao": "RJA"
+        },
+        "flight": {
+            "number": "7256",
+            "iata": "RJ7256",
+            "icao": "RJA7256",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2368",
+                "flight_iata": "aa2368",
+                "flight_icao": "aal2368"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B39",
+            "delay": 6,
+            "scheduled": "2022-01-31T13:25:00+00:00",
+            "estimated": "2022-01-31T13:25:00+00:00",
+            "actual": "2022-01-31T13:30:00+00:00",
+            "estimated_runway": "2022-01-31T13:30:00+00:00",
+            "actual_runway": "2022-01-31T13:30:00+00:00"
+        },
+        "arrival": {
+            "airport": "Mc Carran International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAS",
+            "icao": "KLAS",
+            "terminal": "3",
+            "gate": "D55",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T14:25:00+00:00",
+            "estimated": "2022-01-31T14:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5936",
+            "iata": "AC5936",
+            "icao": "ACA5936",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "368",
+                "flight_iata": "ua368",
+                "flight_icao": "ual368"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B39",
+            "delay": 6,
+            "scheduled": "2022-01-31T13:25:00+00:00",
+            "estimated": "2022-01-31T13:25:00+00:00",
+            "actual": "2022-01-31T13:30:00+00:00",
+            "estimated_runway": "2022-01-31T13:30:00+00:00",
+            "actual_runway": "2022-01-31T13:30:00+00:00"
+        },
+        "arrival": {
+            "airport": "Mc Carran International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAS",
+            "icao": "KLAS",
+            "terminal": "3",
+            "gate": "D55",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T14:25:00+00:00",
+            "estimated": "2022-01-31T14:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Copa Airlines",
+            "iata": "CM",
+            "icao": "CMP"
+        },
+        "flight": {
+            "number": "2890",
+            "iata": "CM2890",
+            "icao": "CMP2890",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "368",
+                "flight_iata": "ua368",
+                "flight_icao": "ual368"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B45",
+            "delay": 28,
+            "scheduled": "2022-01-31T13:30:00+00:00",
+            "estimated": "2022-01-31T13:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Newark Liberty International",
+            "timezone": "America/New_York",
+            "iata": "EWR",
+            "icao": "KEWR",
+            "terminal": "C",
+            "gate": "112",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2022-01-31T19:12:00+00:00",
+            "estimated": "2022-01-31T19:12:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "TAP Air Portugal",
+            "iata": "TP",
+            "icao": "TAP"
+        },
+        "flight": {
+            "number": "8473",
+            "iata": "TP8473",
+            "icao": "TAP8473",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "329",
+                "flight_iata": "ua329",
+                "flight_icao": "ual329"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B37",
+            "delay": 13,
+            "scheduled": "2022-01-31T13:31:00+00:00",
+            "estimated": "2022-01-31T13:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "San Francisco International",
+            "timezone": "America/Los_Angeles",
+            "iata": "SFO",
+            "icao": "KSFO",
+            "terminal": "3",
+            "gate": "F17",
+            "baggage": "8",
+            "delay": null,
+            "scheduled": "2022-01-31T15:24:00+00:00",
+            "estimated": "2022-01-31T15:24:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5756",
+            "iata": "AC5756",
+            "icao": "ACA5756",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1478",
+                "flight_iata": "ua1478",
+                "flight_icao": "ual1478"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B37",
+            "delay": 13,
+            "scheduled": "2022-01-31T13:31:00+00:00",
+            "estimated": "2022-01-31T13:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "San Francisco International",
+            "timezone": "America/Los_Angeles",
+            "iata": "SFO",
+            "icao": "KSFO",
+            "terminal": "3",
+            "gate": "F17",
+            "baggage": "8",
+            "delay": null,
+            "scheduled": "2022-01-31T15:24:00+00:00",
+            "estimated": "2022-01-31T15:24:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air New Zealand",
+            "iata": "NZ",
+            "icao": "ANZ"
+        },
+        "flight": {
+            "number": "9071",
+            "iata": "NZ9071",
+            "icao": "ANZ9071",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1478",
+                "flight_iata": "ua1478",
+                "flight_icao": "ual1478"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A34",
+            "delay": 48,
+            "scheduled": "2022-01-31T00:09:00+00:00",
+            "estimated": "2022-01-31T00:09:00+00:00",
+            "actual": "2022-01-31T00:56:00+00:00",
+            "estimated_runway": "2022-01-31T00:56:00+00:00",
+            "actual_runway": "2022-01-31T00:56:00+00:00"
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "N",
+            "gate": "E4",
+            "baggage": "N4",
+            "delay": 24,
+            "scheduled": "2022-01-31T05:03:00+00:00",
+            "estimated": "2022-01-31T05:03:00+00:00",
+            "actual": "2022-01-31T05:26:00+00:00",
+            "estimated_runway": "2022-01-31T05:26:00+00:00",
+            "actual_runway": "2022-01-31T05:26:00+00:00"
+        },
+        "airline": {
+            "name": "Frontier Airlines",
+            "iata": "F9",
+            "icao": "FFT"
+        },
+        "flight": {
+            "number": "418",
+            "iata": "F9418",
+            "icao": "FFT418",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A54",
+            "delay": 20,
+            "scheduled": "2022-01-31T00:05:00+00:00",
+            "estimated": "2022-01-31T00:05:00+00:00",
+            "actual": "2022-01-31T00:24:00+00:00",
+            "estimated_runway": "2022-01-31T00:24:00+00:00",
+            "actual_runway": "2022-01-31T00:24:00+00:00"
+        },
+        "arrival": {
+            "airport": "Southwest Florida International",
+            "timezone": "America/New_York",
+            "iata": "RSW",
+            "icao": "KRSW",
+            "terminal": "8",
+            "gate": "B5",
+            "baggage": "13",
+            "delay": null,
+            "scheduled": "2022-01-31T05:44:00+00:00",
+            "estimated": "2022-01-31T05:44:00+00:00",
+            "actual": "2022-01-31T05:28:00+00:00",
+            "estimated_runway": "2022-01-31T05:28:00+00:00",
+            "actual_runway": "2022-01-31T05:28:00+00:00"
+        },
+        "airline": {
+            "name": "Frontier Airlines",
+            "iata": "F9",
+            "icao": "FFT"
+        },
+        "flight": {
+            "number": "486",
+            "iata": "F9486",
+            "icao": "FFT486",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "N379FR",
+            "iata": "A20N",
+            "icao": "A20N",
+            "icao24": "A455C7"
+        },
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A49",
+            "delay": 20,
+            "scheduled": "2022-01-31T12:21:00+00:00",
+            "estimated": "2022-01-31T12:21:00+00:00",
+            "actual": "2022-01-31T12:23:00+00:00",
+            "estimated_runway": "2022-01-31T12:23:00+00:00",
+            "actual_runway": "2022-01-31T12:23:00+00:00"
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": "5",
+            "gate": "52F",
+            "baggage": "T5C6",
+            "delay": null,
+            "scheduled": "2022-01-31T14:06:00+00:00",
+            "estimated": "2022-01-31T14:06:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3079",
+            "iata": "AA3079",
+            "icao": "AAL3079",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B39",
+            "delay": 10,
+            "scheduled": "2022-01-31T11:16:00+00:00",
+            "estimated": "2022-01-31T11:16:00+00:00",
+            "actual": "2022-01-31T11:25:00+00:00",
+            "estimated_runway": "2022-01-31T11:25:00+00:00",
+            "actual_runway": "2022-01-31T11:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "John Wayne",
+            "timezone": "America/Los_Angeles",
+            "iata": "SNA",
+            "icao": "KSNA",
+            "terminal": "B",
+            "gate": "10",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T12:47:00+00:00",
+            "estimated": "2022-01-31T12:47:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5277",
+            "iata": "AC5277",
+            "icao": "ACA5277",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1463",
+                "flight_iata": "ua1463",
+                "flight_icao": "ual1463"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B24",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:00:00+00:00",
+            "estimated": "2022-01-31T19:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Montrose Regional Airport",
+            "timezone": "America/Denver",
+            "iata": "MTJ",
+            "icao": "KMTJ",
+            "terminal": null,
+            "gate": "5",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:05:00+00:00",
+            "estimated": "2022-01-31T20:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "4327",
+            "iata": "AC4327",
+            "icao": "ACA4327",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1410",
+                "flight_iata": "ua1410",
+                "flight_icao": "ual1410"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C40",
+            "delay": 15,
+            "scheduled": "2022-01-31T10:30:00+00:00",
+            "estimated": "2022-01-31T10:30:00+00:00",
+            "actual": "2022-01-31T10:44:00+00:00",
+            "estimated_runway": "2022-01-31T10:44:00+00:00",
+            "actual_runway": "2022-01-31T10:44:00+00:00"
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "S",
+            "gate": "C14",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T15:25:00+00:00",
+            "estimated": "2022-01-31T15:25:00+00:00",
+            "actual": "2022-01-31T15:11:00+00:00",
+            "estimated_runway": "2022-01-31T15:11:00+00:00",
+            "actual_runway": "2022-01-31T15:11:00+00:00"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "1029",
+            "iata": "WN1029",
+            "icao": "SWA1029",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C36",
+            "delay": 8,
+            "scheduled": "2022-01-31T10:35:00+00:00",
+            "estimated": "2022-01-31T10:35:00+00:00",
+            "actual": "2022-01-31T10:42:00+00:00",
+            "estimated_runway": "2022-01-31T10:42:00+00:00",
+            "actual_runway": "2022-01-31T10:42:00+00:00"
+        },
+        "arrival": {
+            "airport": "La Guardia",
+            "timezone": "America/New_York",
+            "iata": "LGA",
+            "icao": "KLGA",
+            "terminal": "B",
+            "gate": "54",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T16:15:00+00:00",
+            "estimated": "2022-01-31T16:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "825",
+            "iata": "WN825",
+            "icao": "SWA825",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C27",
+            "delay": 7,
+            "scheduled": "2022-01-31T10:35:00+00:00",
+            "estimated": "2022-01-31T10:35:00+00:00",
+            "actual": "2022-01-31T10:41:00+00:00",
+            "estimated_runway": "2022-01-31T10:41:00+00:00",
+            "actual_runway": "2022-01-31T10:41:00+00:00"
+        },
+        "arrival": {
+            "airport": "Fort Lauderdale–Hollywood International",
+            "timezone": "America/New_York",
+            "iata": "FLL",
+            "icao": "KFLL",
+            "terminal": "1",
+            "gate": "B9",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T16:20:00+00:00",
+            "estimated": "2022-01-31T16:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "980",
+            "iata": "WN980",
+            "icao": "SWA980",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A36",
+            "delay": 108,
+            "scheduled": "2022-01-31T06:45:00+00:00",
+            "estimated": "2022-01-31T06:45:00+00:00",
+            "actual": "2022-01-31T08:33:00+00:00",
+            "estimated_runway": "2022-01-31T08:33:00+00:00",
+            "actual_runway": "2022-01-31T08:33:00+00:00"
+        },
+        "arrival": {
+            "airport": "Baltimore/Washington International Thurgood Marshall",
+            "timezone": "America/New_York",
+            "iata": "BWI",
+            "icao": "KBWI",
+            "terminal": "B",
+            "gate": "D4",
+            "baggage": "12",
+            "delay": 82,
+            "scheduled": "2022-01-31T12:05:00+00:00",
+            "estimated": "2022-01-31T12:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Frontier Airlines",
+            "iata": "F9",
+            "icao": "FFT"
+        },
+        "flight": {
+            "number": "726",
+            "iata": "F9726",
+            "icao": "FFT726",
+            "codeshared": null
+        },
+        "aircraft": {
+            "registration": "N713FR",
+            "iata": "A321",
+            "icao": "A321",
+            "icao24": "A987BF"
+        },
+        "live": {
+            "updated": "2022-01-31T13:35:55+00:00",
+            "latitude": 39.85,
+            "longitude": -104.68,
+            "altitude": 0,
+            "direction": 180,
+            "speed_horizontal": 0,
+            "speed_vertical": 0,
+            "is_ground": true
+        }
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B56",
+            "delay": 21,
+            "scheduled": "2022-01-31T17:30:00+00:00",
+            "estimated": "2022-01-31T17:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tulsa International",
+            "timezone": "America/Chicago",
+            "iata": "TUL",
+            "icao": "KTUL",
+            "terminal": "5",
+            "gate": "B8",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:10:00+00:00",
+            "estimated": "2022-01-31T20:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        },
+        "flight": {
+            "number": "7506",
+            "iata": "LH7506",
+            "icao": "DLH7506",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "5214",
+                "flight_iata": "ua5214",
+                "flight_icao": "ual5214"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B56",
+            "delay": 21,
+            "scheduled": "2022-01-31T17:30:00+00:00",
+            "estimated": "2022-01-31T17:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tulsa International",
+            "timezone": "America/Chicago",
+            "iata": "TUL",
+            "icao": "KTUL",
+            "terminal": "5",
+            "gate": "B8",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:10:00+00:00",
+            "estimated": "2022-01-31T20:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "4119",
+            "iata": "AC4119",
+            "icao": "ACA4119",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "5214",
+                "flight_iata": "ua5214",
+                "flight_icao": "ual5214"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A28",
+            "delay": null,
+            "scheduled": "2022-01-31T18:15:00+00:00",
+            "estimated": "2022-01-31T18:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Salt Lake City International",
+            "timezone": "America/Denver",
+            "iata": "SLC",
+            "icao": "KSLC",
+            "terminal": "4",
+            "gate": "B4",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T19:56:00+00:00",
+            "estimated": "2022-01-31T19:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "WestJet",
+            "iata": "WS",
+            "icao": "WJA"
+        },
+        "flight": {
+            "number": "6676",
+            "iata": "WS6676",
+            "icao": "WJA6676",
+            "codeshared": {
+                "airline_name": "delta air lines",
+                "airline_iata": "dl",
+                "airline_icao": "dal",
+                "flight_number": "689",
+                "flight_iata": "dl689",
+                "flight_icao": "dal689"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B18",
+            "delay": 9,
+            "scheduled": "2022-01-31T12:27:00+00:00",
+            "estimated": "2022-01-31T12:27:00+00:00",
+            "actual": "2022-01-31T12:35:00+00:00",
+            "estimated_runway": "2022-01-31T12:35:00+00:00",
+            "actual_runway": "2022-01-31T12:35:00+00:00"
+        },
+        "arrival": {
+            "airport": "Portland International",
+            "timezone": "America/Los_Angeles",
+            "iata": "PDX",
+            "icao": "KPDX",
+            "terminal": "6",
+            "gate": "E3",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T14:19:00+00:00",
+            "estimated": "2022-01-31T14:19:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "464",
+            "iata": "UA464",
+            "icao": "UAL464",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B26",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:00:00+00:00",
+            "estimated": "2022-01-31T19:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Yampa Valley",
+            "timezone": "America/Denver",
+            "iata": "HDN",
+            "icao": "KHDN",
+            "terminal": null,
+            "gate": "5",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T19:58:00+00:00",
+            "estimated": "2022-01-31T19:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1448",
+            "iata": "UA1448",
+            "icao": "UAL1448",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B52",
+            "delay": 3,
+            "scheduled": "2022-01-31T18:50:00+00:00",
+            "estimated": "2022-01-31T18:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Colorado Springs",
+            "timezone": "America/Denver",
+            "iata": "COS",
+            "icao": "KCOS",
+            "terminal": "3",
+            "gate": "7",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2022-01-31T19:40:00+00:00",
+            "estimated": "2022-01-31T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Copa Airlines",
+            "iata": "CM",
+            "icao": "CMP"
+        },
+        "flight": {
+            "number": "1034",
+            "iata": "CM1034",
+            "icao": "CMP1034",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "5582",
+                "flight_iata": "ua5582",
+                "flight_icao": "ual5582"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B52",
+            "delay": 3,
+            "scheduled": "2022-01-31T18:50:00+00:00",
+            "estimated": "2022-01-31T18:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Colorado Springs",
+            "timezone": "America/Denver",
+            "iata": "COS",
+            "icao": "KCOS",
+            "terminal": "3",
+            "gate": "7",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2022-01-31T19:40:00+00:00",
+            "estimated": "2022-01-31T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "4258",
+            "iata": "AC4258",
+            "icao": "ACA4258",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "5582",
+                "flight_iata": "ua5582",
+                "flight_icao": "ual5582"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A42",
+            "delay": 13,
+            "scheduled": "2022-01-31T15:35:00+00:00",
+            "estimated": "2022-01-31T15:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Orlando International",
+            "timezone": "America/New_York",
+            "iata": "MCO",
+            "icao": "KMCO",
+            "terminal": "A",
+            "gate": "28",
+            "baggage": "9",
+            "delay": null,
+            "scheduled": "2022-01-31T21:13:00+00:00",
+            "estimated": "2022-01-31T21:13:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        },
+        "flight": {
+            "number": "2063",
+            "iata": "Y42063",
+            "icao": "VOI2063",
+            "codeshared": {
+                "airline_name": "frontier airlines",
+                "airline_iata": "f9",
+                "airline_icao": "fft",
+                "flight_number": "680",
+                "flight_iata": "f9680",
+                "flight_icao": "fft680"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B61",
+            "delay": 18,
+            "scheduled": "2022-01-31T16:20:00+00:00",
+            "estimated": "2022-01-31T16:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Lubbock Preston Smith International",
+            "timezone": "America/Chicago",
+            "iata": "LBB",
+            "icao": "KLBB",
+            "terminal": null,
+            "gate": "2",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T18:56:00+00:00",
+            "estimated": "2022-01-31T18:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        },
+        "flight": {
+            "number": "8844",
+            "iata": "LH8844",
+            "icao": "DLH8844",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "4689",
+                "flight_iata": "ua4689",
+                "flight_icao": "ual4689"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A54",
+            "delay": 20,
+            "scheduled": "2022-01-31T00:05:00+00:00",
+            "estimated": "2022-01-31T00:05:00+00:00",
+            "actual": "2022-01-31T00:24:00+00:00",
+            "estimated_runway": "2022-01-31T00:24:00+00:00",
+            "actual_runway": "2022-01-31T00:24:00+00:00"
+        },
+        "arrival": {
+            "airport": "Southwest Florida International",
+            "timezone": "America/New_York",
+            "iata": "RSW",
+            "icao": "KRSW",
+            "terminal": "8",
+            "gate": "B5",
+            "baggage": "13",
+            "delay": null,
+            "scheduled": "2022-01-31T05:44:00+00:00",
+            "estimated": "2022-01-31T05:44:00+00:00",
+            "actual": "2022-01-31T05:28:00+00:00",
+            "estimated_runway": "2022-01-31T05:28:00+00:00",
+            "actual_runway": "2022-01-31T05:28:00+00:00"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        },
+        "flight": {
+            "number": "2048",
+            "iata": "Y42048",
+            "icao": "VOI2048",
+            "codeshared": {
+                "airline_name": "frontier airlines",
+                "airline_iata": "f9",
+                "airline_icao": "fft",
+                "flight_number": "486",
+                "flight_iata": "f9486",
+                "flight_icao": "fft486"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2022-01-31T18:05:00+00:00",
+            "estimated": "2022-01-31T18:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Sky Harbor International",
+            "timezone": "America/Phoenix",
+            "iata": "PHX",
+            "icao": "KPHX",
+            "terminal": "4",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T19:54:00+00:00",
+            "estimated": "2022-01-31T19:54:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "UPS Airlines",
+            "iata": "5X",
+            "icao": "UPS"
+        },
+        "flight": {
+            "number": "2808",
+            "iata": "5X2808",
+            "icao": "UPS2808",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B47",
+            "delay": 2,
+            "scheduled": "2022-01-31T07:51:00+00:00",
+            "estimated": "2022-01-31T07:51:00+00:00",
+            "actual": "2022-01-31T07:53:00+00:00",
+            "estimated_runway": "2022-01-31T07:53:00+00:00",
+            "actual_runway": "2022-01-31T07:53:00+00:00"
+        },
+        "arrival": {
+            "airport": "Mc Carran International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAS",
+            "icao": "KLAS",
+            "terminal": "3",
+            "gate": "D56",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T08:53:00+00:00",
+            "estimated": "2022-01-31T08:53:00+00:00",
+            "actual": "2022-01-31T08:31:00+00:00",
+            "estimated_runway": "2022-01-31T08:31:00+00:00",
+            "actual_runway": "2022-01-31T08:31:00+00:00"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5045",
+            "iata": "AC5045",
+            "icao": "ACA5045",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "2191",
+                "flight_iata": "ua2191",
+                "flight_icao": "ual2191"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A32",
+            "delay": 13,
+            "scheduled": "2022-01-31T18:30:00+00:00",
+            "estimated": "2022-01-31T18:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mc Carran International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAS",
+            "icao": "KLAS",
+            "terminal": "3",
+            "gate": "E8",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2022-01-31T19:35:00+00:00",
+            "estimated": "2022-01-31T19:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Frontier Airlines",
+            "iata": "F9",
+            "icao": "FFT"
+        },
+        "flight": {
+            "number": "773",
+            "iata": "F9773",
+            "icao": "FFT773",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B28",
+            "delay": 8,
+            "scheduled": "2022-01-31T13:38:00+00:00",
+            "estimated": "2022-01-31T13:38:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "George Bush Intercontinental",
+            "timezone": "America/Chicago",
+            "iata": "IAH",
+            "icao": "KIAH",
+            "terminal": "C",
+            "gate": "14",
+            "baggage": "C12",
+            "delay": null,
+            "scheduled": "2022-01-31T16:58:00+00:00",
+            "estimated": "2022-01-31T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5360",
+            "iata": "AC5360",
+            "icao": "ACA5360",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "313",
+                "flight_iata": "ua313",
+                "flight_icao": "ual313"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B28",
+            "delay": 8,
+            "scheduled": "2022-01-31T13:38:00+00:00",
+            "estimated": "2022-01-31T13:38:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "George Bush Intercontinental",
+            "timezone": "America/Chicago",
+            "iata": "IAH",
+            "icao": "KIAH",
+            "terminal": "C",
+            "gate": "14",
+            "baggage": "C12",
+            "delay": null,
+            "scheduled": "2022-01-31T16:58:00+00:00",
+            "estimated": "2022-01-31T16:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air New Zealand",
+            "iata": "NZ",
+            "icao": "ANZ"
+        },
+        "flight": {
+            "number": "6502",
+            "iata": "NZ6502",
+            "icao": "ANZ6502",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "313",
+                "flight_iata": "ua313",
+                "flight_icao": "ual313"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B35",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:37:00+00:00",
+            "estimated": "2022-01-31T17:37:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "San Antonio International",
+            "timezone": "America/Chicago",
+            "iata": "SAT",
+            "icao": "KSAT",
+            "terminal": "B",
+            "gate": "B3",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2022-01-31T20:46:00+00:00",
+            "estimated": "2022-01-31T20:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "4762",
+            "iata": "AC4762",
+            "icao": "ACA4762",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1013",
+                "flight_iata": "ua1013",
+                "flight_icao": "ual1013"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B35",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:37:00+00:00",
+            "estimated": "2022-01-31T17:37:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "San Antonio International",
+            "timezone": "America/Chicago",
+            "iata": "SAT",
+            "icao": "KSAT",
+            "terminal": "B",
+            "gate": "B3",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2022-01-31T20:46:00+00:00",
+            "estimated": "2022-01-31T20:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        },
+        "flight": {
+            "number": "7688",
+            "iata": "LH7688",
+            "icao": "DLH7688",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1013",
+                "flight_iata": "ua1013",
+                "flight_icao": "ual1013"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A29",
+            "delay": 4,
+            "scheduled": "2022-01-31T11:01:00+00:00",
+            "estimated": "2022-01-31T11:01:00+00:00",
+            "actual": "2022-01-31T11:04:00+00:00",
+            "estimated_runway": "2022-01-31T11:04:00+00:00",
+            "actual_runway": "2022-01-31T11:04:00+00:00"
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "S",
+            "gate": "A17",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2022-01-31T15:45:00+00:00",
+            "estimated": "2022-01-31T15:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Virgin Atlantic",
+            "iata": "VS",
+            "icao": "VIR"
+        },
+        "flight": {
+            "number": "4720",
+            "iata": "VS4720",
+            "icao": "VIR4720",
+            "codeshared": {
+                "airline_name": "delta air lines",
+                "airline_iata": "dl",
+                "airline_icao": "dal",
+                "flight_number": "751",
+                "flight_iata": "dl751",
+                "flight_icao": "dal751"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B29",
+            "delay": 7,
+            "scheduled": "2022-01-31T11:15:00+00:00",
+            "estimated": "2022-01-31T11:15:00+00:00",
+            "actual": "2022-01-31T11:21:00+00:00",
+            "estimated_runway": "2022-01-31T11:21:00+00:00",
+            "actual_runway": "2022-01-31T11:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "1",
+            "gate": "C12",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2022-01-31T14:46:00+00:00",
+            "estimated": "2022-01-31T14:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5768",
+            "iata": "AC5768",
+            "icao": "ACA5768",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "2312",
+                "flight_iata": "ua2312",
+                "flight_icao": "ual2312"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B29",
+            "delay": 7,
+            "scheduled": "2022-01-31T11:15:00+00:00",
+            "estimated": "2022-01-31T11:15:00+00:00",
+            "actual": "2022-01-31T11:21:00+00:00",
+            "estimated_runway": "2022-01-31T11:21:00+00:00",
+            "actual_runway": "2022-01-31T11:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "1",
+            "gate": "C12",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2022-01-31T14:46:00+00:00",
+            "estimated": "2022-01-31T14:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aer Lingus",
+            "iata": "EI",
+            "icao": "EIN"
+        },
+        "flight": {
+            "number": "6055",
+            "iata": "EI6055",
+            "icao": "EIN6055",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "2312",
+                "flight_iata": "ua2312",
+                "flight_icao": "ual2312"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B29",
+            "delay": 7,
+            "scheduled": "2022-01-31T11:15:00+00:00",
+            "estimated": "2022-01-31T11:15:00+00:00",
+            "actual": "2022-01-31T11:21:00+00:00",
+            "estimated_runway": "2022-01-31T11:21:00+00:00",
+            "actual_runway": "2022-01-31T11:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "1",
+            "gate": "C12",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2022-01-31T14:46:00+00:00",
+            "estimated": "2022-01-31T14:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        },
+        "flight": {
+            "number": "7465",
+            "iata": "LH7465",
+            "icao": "DLH7465",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "2312",
+                "flight_iata": "ua2312",
+                "flight_icao": "ual2312"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B29",
+            "delay": 7,
+            "scheduled": "2022-01-31T11:15:00+00:00",
+            "estimated": "2022-01-31T11:15:00+00:00",
+            "actual": "2022-01-31T11:21:00+00:00",
+            "estimated_runway": "2022-01-31T11:21:00+00:00",
+            "actual_runway": "2022-01-31T11:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "1",
+            "gate": "C12",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2022-01-31T14:46:00+00:00",
+            "estimated": "2022-01-31T14:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "SWISS",
+            "iata": "LX",
+            "icao": "SWR"
+        },
+        "flight": {
+            "number": "3249",
+            "iata": "LX3249",
+            "icao": "SWR3249",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "2312",
+                "flight_iata": "ua2312",
+                "flight_icao": "ual2312"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A29",
+            "delay": 4,
+            "scheduled": "2022-01-31T11:01:00+00:00",
+            "estimated": "2022-01-31T11:01:00+00:00",
+            "actual": "2022-01-31T11:04:00+00:00",
+            "estimated_runway": "2022-01-31T11:04:00+00:00",
+            "actual_runway": "2022-01-31T11:04:00+00:00"
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "S",
+            "gate": "A17",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2022-01-31T15:45:00+00:00",
+            "estimated": "2022-01-31T15:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "LATAM Airlines",
+            "iata": "LA",
+            "icao": "LAN"
+        },
+        "flight": {
+            "number": "6381",
+            "iata": "LA6381",
+            "icao": "LAN6381",
+            "codeshared": {
+                "airline_name": "delta air lines",
+                "airline_iata": "dl",
+                "airline_icao": "dal",
+                "flight_number": "751",
+                "flight_iata": "dl751",
+                "flight_icao": "dal751"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A29",
+            "delay": 4,
+            "scheduled": "2022-01-31T11:01:00+00:00",
+            "estimated": "2022-01-31T11:01:00+00:00",
+            "actual": "2022-01-31T11:04:00+00:00",
+            "estimated_runway": "2022-01-31T11:04:00+00:00",
+            "actual_runway": "2022-01-31T11:04:00+00:00"
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "S",
+            "gate": "A17",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2022-01-31T15:45:00+00:00",
+            "estimated": "2022-01-31T15:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "KLM",
+            "iata": "KL",
+            "icao": "KLM"
+        },
+        "flight": {
+            "number": "5819",
+            "iata": "KL5819",
+            "icao": "KLM5819",
+            "codeshared": {
+                "airline_name": "delta air lines",
+                "airline_iata": "dl",
+                "airline_icao": "dal",
+                "flight_number": "751",
+                "flight_iata": "dl751",
+                "flight_icao": "dal751"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A29",
+            "delay": 4,
+            "scheduled": "2022-01-31T11:01:00+00:00",
+            "estimated": "2022-01-31T11:01:00+00:00",
+            "actual": "2022-01-31T11:04:00+00:00",
+            "estimated_runway": "2022-01-31T11:04:00+00:00",
+            "actual_runway": "2022-01-31T11:04:00+00:00"
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "S",
+            "gate": "A17",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2022-01-31T15:45:00+00:00",
+            "estimated": "2022-01-31T15:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Aerolineas Argentinas",
+            "iata": "AR",
+            "icao": "ARG"
+        },
+        "flight": {
+            "number": "7041",
+            "iata": "AR7041",
+            "icao": "ARG7041",
+            "codeshared": {
+                "airline_name": "delta air lines",
+                "airline_iata": "dl",
+                "airline_icao": "dal",
+                "flight_number": "751",
+                "flight_iata": "dl751",
+                "flight_icao": "dal751"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A28",
+            "delay": 9,
+            "scheduled": "2022-01-31T12:19:00+00:00",
+            "estimated": "2022-01-31T12:19:00+00:00",
+            "actual": "2022-01-31T12:28:00+00:00",
+            "estimated_runway": "2022-01-31T12:28:00+00:00",
+            "actual_runway": "2022-01-31T12:28:00+00:00"
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": "2",
+            "gate": "22",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T13:56:00+00:00",
+            "estimated": "2022-01-31T13:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air France",
+            "iata": "AF",
+            "icao": "AFR"
+        },
+        "flight": {
+            "number": "2340",
+            "iata": "AF2340",
+            "icao": "AFR2340",
+            "codeshared": {
+                "airline_name": "delta air lines",
+                "airline_iata": "dl",
+                "airline_icao": "dal",
+                "flight_number": "4171",
+                "flight_iata": "dl4171",
+                "flight_icao": "dal4171"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B47",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:07:00+00:00",
+            "estimated": "2022-01-31T19:07:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Rogue Valley International - Medford Airport",
+            "timezone": "America/Los_Angeles",
+            "iata": "MFR",
+            "icao": "KMFR",
+            "terminal": null,
+            "gate": "5",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:57:00+00:00",
+            "estimated": "2022-01-31T20:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "2342",
+            "iata": "UA2342",
+            "icao": "UAL2342",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B59",
+            "delay": 19,
+            "scheduled": "2022-01-31T19:05:00+00:00",
+            "estimated": "2022-01-31T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Fanning Field",
+            "timezone": "America/Boise",
+            "iata": "IDA",
+            "icao": "KIDA",
+            "terminal": null,
+            "gate": "B3",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2022-01-31T20:59:00+00:00",
+            "estimated": "2022-01-31T20:59:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "5263",
+            "iata": "UA5263",
+            "icao": "UAL5263",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A39",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:05:00+00:00",
+            "estimated": "2022-01-31T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Missoula International",
+            "timezone": "America/Denver",
+            "iata": "MSO",
+            "icao": "KMSO",
+            "terminal": null,
+            "gate": "2",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T21:21:00+00:00",
+            "estimated": "2022-01-31T21:21:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1839",
+            "iata": "UA1839",
+            "icao": "UAL1839",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B35",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:05:00+00:00",
+            "estimated": "2022-01-31T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Jackson Hole",
+            "timezone": "America/Denver",
+            "iata": "JAC",
+            "icao": "KJAC",
+            "terminal": null,
+            "gate": "7",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:38:00+00:00",
+            "estimated": "2022-01-31T20:38:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1574",
+            "iata": "UA1574",
+            "icao": "UAL1574",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B19",
+            "delay": null,
+            "scheduled": "2022-01-31T19:03:00+00:00",
+            "estimated": "2022-01-31T19:03:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Calgary International Airport",
+            "timezone": "America/Edmonton",
+            "iata": "YYC",
+            "icao": "CYYC",
+            "terminal": null,
+            "gate": "D85",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T21:42:00+00:00",
+            "estimated": "2022-01-31T21:42:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "720",
+            "iata": "UA720",
+            "icao": "UAL720",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B41",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:03:00+00:00",
+            "estimated": "2022-01-31T19:03:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ted Stevens Anchorage International Airport",
+            "timezone": "America/Anchorage",
+            "iata": "ANC",
+            "icao": "PANC",
+            "terminal": "S",
+            "gate": "B5",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2022-01-31T22:56:00+00:00",
+            "estimated": "2022-01-31T22:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "280",
+            "iata": "UA280",
+            "icao": "UAL280",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C38",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:02:00+00:00",
+            "estimated": "2022-01-31T19:02:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mineta San Jose International Airport",
+            "timezone": "America/Los_Angeles",
+            "iata": "SJC",
+            "icao": "KSJC",
+            "terminal": "A",
+            "gate": "15",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:48:00+00:00",
+            "estimated": "2022-01-31T20:48:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "437",
+            "iata": "UA437",
+            "icao": "UAL437",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2022-01-31T19:01:00+00:00",
+            "estimated": "2022-01-31T19:01:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cincinnati/Northern Kentucky",
+            "timezone": "America/New_York",
+            "iata": "CVG",
+            "icao": "KCVG",
+            "terminal": "3",
+            "gate": "A4",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T23:29:00+00:00",
+            "estimated": "2022-01-31T23:29:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Allegiant Air",
+            "iata": "G4",
+            "icao": "AAY"
+        },
+        "flight": {
+            "number": "673",
+            "iata": "G4673",
+            "icao": "AAY673",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C29",
+            "delay": null,
+            "scheduled": "2022-01-31T19:00:00+00:00",
+            "estimated": "2022-01-31T19:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Minneapolis - St. Paul International",
+            "timezone": "America/Chicago",
+            "iata": "MSP",
+            "icao": "KMSP",
+            "terminal": "2",
+            "gate": "H11",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T22:00:00+00:00",
+            "estimated": "2022-01-31T22:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "1369",
+            "iata": "WN1369",
+            "icao": "SWA1369",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A46",
+            "delay": 22,
+            "scheduled": "2022-01-31T00:59:00+00:00",
+            "estimated": "2022-01-31T00:59:00+00:00",
+            "actual": "2022-01-31T01:20:00+00:00",
+            "estimated_runway": "2022-01-31T01:20:00+00:00",
+            "actual_runway": "2022-01-31T01:20:00+00:00"
+        },
+        "arrival": {
+            "airport": "Orlando International",
+            "timezone": "America/New_York",
+            "iata": "MCO",
+            "icao": "KMCO",
+            "terminal": "A",
+            "gate": "17",
+            "baggage": "9",
+            "delay": null,
+            "scheduled": "2022-01-31T06:35:00+00:00",
+            "estimated": "2022-01-31T06:35:00+00:00",
+            "actual": "2022-01-31T06:27:00+00:00",
+            "estimated_runway": "2022-01-31T06:27:00+00:00",
+            "actual_runway": "2022-01-31T06:27:00+00:00"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        },
+        "flight": {
+            "number": "2274",
+            "iata": "Y42274",
+            "icao": "VOI2274",
+            "codeshared": {
+                "airline_name": "frontier airlines",
+                "airline_iata": "f9",
+                "airline_icao": "fft",
+                "flight_number": "678",
+                "flight_iata": "f9678",
+                "flight_icao": "fft678"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A34",
+            "delay": 48,
+            "scheduled": "2022-01-31T00:09:00+00:00",
+            "estimated": "2022-01-31T00:09:00+00:00",
+            "actual": "2022-01-31T00:56:00+00:00",
+            "estimated_runway": "2022-01-31T00:56:00+00:00",
+            "actual_runway": "2022-01-31T00:56:00+00:00"
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "N",
+            "gate": "E4",
+            "baggage": "N4",
+            "delay": 24,
+            "scheduled": "2022-01-31T05:03:00+00:00",
+            "estimated": "2022-01-31T05:03:00+00:00",
+            "actual": "2022-01-31T05:26:00+00:00",
+            "estimated_runway": "2022-01-31T05:26:00+00:00",
+            "actual_runway": "2022-01-31T05:26:00+00:00"
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        },
+        "flight": {
+            "number": "2056",
+            "iata": "Y42056",
+            "icao": "VOI2056",
+            "codeshared": {
+                "airline_name": "frontier airlines",
+                "airline_iata": "f9",
+                "airline_icao": "fft",
+                "flight_number": "418",
+                "flight_iata": "f9418",
+                "flight_icao": "fft418"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A49",
+            "delay": 2,
+            "scheduled": "2022-01-31T12:21:00+00:00",
+            "estimated": "2022-01-31T12:21:00+00:00",
+            "actual": "2022-01-31T12:23:00+00:00",
+            "estimated_runway": "2022-01-31T12:23:00+00:00",
+            "actual_runway": "2022-01-31T12:23:00+00:00"
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": "5",
+            "gate": "52A",
+            "baggage": "T5C6",
+            "delay": null,
+            "scheduled": "2022-01-31T14:06:00+00:00",
+            "estimated": "2022-01-31T14:06:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        },
+        "flight": {
+            "number": "6808",
+            "iata": "GF6808",
+            "icao": "GFA6808",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3079",
+                "flight_iata": "aa3079",
+                "flight_icao": "aal3079"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B86",
+            "delay": 17,
+            "scheduled": "2022-01-31T12:10:00+00:00",
+            "estimated": "2022-01-31T12:10:00+00:00",
+            "actual": "2022-01-31T12:25:00+00:00",
+            "estimated_runway": "2022-01-31T12:25:00+00:00",
+            "actual_runway": "2022-01-31T12:25:00+00:00"
+        },
+        "arrival": {
+            "airport": "Colorado Springs",
+            "timezone": "America/Denver",
+            "iata": "COS",
+            "icao": "KCOS",
+            "terminal": "3",
+            "gate": "5",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2022-01-31T13:01:00+00:00",
+            "estimated": "2022-01-31T13:01:00+00:00",
+            "actual": "2022-01-31T12:46:00+00:00",
+            "estimated_runway": "2022-01-31T12:46:00+00:00",
+            "actual_runway": "2022-01-31T12:46:00+00:00"
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "4765",
+            "iata": "UA4765",
+            "icao": "UAL4765",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C42",
+            "delay": 8,
+            "scheduled": "2022-01-31T05:30:00+00:00",
+            "estimated": "2022-01-31T05:30:00+00:00",
+            "actual": "2022-01-31T05:37:00+00:00",
+            "estimated_runway": "2022-01-31T05:37:00+00:00",
+            "actual_runway": "2022-01-31T05:37:00+00:00"
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": "1",
+            "gate": "12B",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T07:20:00+00:00",
+            "estimated": "2022-01-31T07:20:00+00:00",
+            "actual": "2022-01-31T06:47:00+00:00",
+            "estimated_runway": "2022-01-31T06:47:00+00:00",
+            "actual_runway": "2022-01-31T06:47:00+00:00"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "1363",
+            "iata": "WN1363",
+            "icao": "SWA1363",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C40",
+            "delay": 7,
+            "scheduled": "2022-01-31T05:30:00+00:00",
+            "estimated": "2022-01-31T05:30:00+00:00",
+            "actual": "2022-01-31T05:36:00+00:00",
+            "estimated_runway": "2022-01-31T05:36:00+00:00",
+            "actual_runway": "2022-01-31T05:36:00+00:00"
+        },
+        "arrival": {
+            "airport": "Mc Carran International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAS",
+            "icao": "KLAS",
+            "terminal": "1",
+            "gate": "B12",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T06:35:00+00:00",
+            "estimated": "2022-01-31T06:35:00+00:00",
+            "actual": "2022-01-31T06:19:00+00:00",
+            "estimated_runway": "2022-01-31T06:19:00+00:00",
+            "actual_runway": "2022-01-31T06:19:00+00:00"
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "1249",
+            "iata": "WN1249",
+            "icao": "SWA1249",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A45",
+            "delay": 1,
+            "scheduled": "2022-01-31T05:30:00+00:00",
+            "estimated": "2022-01-31T05:30:00+00:00",
+            "actual": "2022-01-31T05:31:00+00:00",
+            "estimated_runway": "2022-01-31T05:31:00+00:00",
+            "actual_runway": "2022-01-31T05:31:00+00:00"
+        },
+        "arrival": {
+            "airport": "Sky Harbor International",
+            "timezone": "America/Phoenix",
+            "iata": "PHX",
+            "icao": "KPHX",
+            "terminal": "4",
+            "gate": "A20",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2022-01-31T07:36:00+00:00",
+            "estimated": "2022-01-31T07:36:00+00:00",
+            "actual": "2022-01-31T06:57:00+00:00",
+            "estimated_runway": "2022-01-31T06:57:00+00:00",
+            "actual_runway": "2022-01-31T06:57:00+00:00"
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1404",
+            "iata": "AA1404",
+            "icao": "AAL1404",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A45",
+            "delay": 1,
+            "scheduled": "2022-01-31T05:30:00+00:00",
+            "estimated": "2022-01-31T05:30:00+00:00",
+            "actual": "2022-01-31T05:31:00+00:00",
+            "estimated_runway": "2022-01-31T05:31:00+00:00",
+            "actual_runway": "2022-01-31T05:31:00+00:00"
+        },
+        "arrival": {
+            "airport": "Sky Harbor International",
+            "timezone": "America/Phoenix",
+            "iata": "PHX",
+            "icao": "KPHX",
+            "terminal": "4",
+            "gate": "A20",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2022-01-31T07:36:00+00:00",
+            "estimated": "2022-01-31T07:36:00+00:00",
+            "actual": "2022-01-31T06:57:00+00:00",
+            "estimated_runway": "2022-01-31T06:57:00+00:00",
+            "actual_runway": "2022-01-31T06:57:00+00:00"
+        },
+        "airline": {
+            "name": "Alaska Airlines",
+            "iata": "AS",
+            "icao": "ASA"
+        },
+        "flight": {
+            "number": "6297",
+            "iata": "AS6297",
+            "icao": "ASA6297",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1404",
+                "flight_iata": "aa1404",
+                "flight_icao": "aal1404"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B47",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Austin-bergstrom International",
+            "timezone": "America/Chicago",
+            "iata": "AUS",
+            "icao": "KAUS",
+            "terminal": "S",
+            "gate": "31",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2022-01-31T20:58:00+00:00",
+            "estimated": "2022-01-31T20:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "366",
+            "iata": "UA366",
+            "icao": "UAL366",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A41",
+            "delay": 35,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Frankfurt International Airport",
+            "timezone": "Europe/Berlin",
+            "iata": "FRA",
+            "icao": "EDDF",
+            "terminal": "1",
+            "gate": "Z62",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-02-01T11:50:00+00:00",
+            "estimated": "2022-02-01T11:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        },
+        "flight": {
+            "number": "447",
+            "iata": "LH447",
+            "icao": "DLH447",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A35",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Jacksonville,",
+            "timezone": "America/New_York",
+            "iata": "JAX",
+            "icao": "KJAX",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T23:01:00+00:00",
+            "estimated": "2022-01-31T23:01:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "472",
+            "iata": "UA472",
+            "icao": "UAL472",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B35",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Louis Armstrong New Orléans International Airport",
+            "timezone": "America/Chicago",
+            "iata": "MSY",
+            "icao": "KMSY",
+            "terminal": null,
+            "gate": "C11",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T21:23:00+00:00",
+            "estimated": "2022-01-31T21:23:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1057",
+            "iata": "UA1057",
+            "icao": "UAL1057",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B38",
+            "delay": 15,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "1",
+            "gate": "C20",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2022-01-31T21:07:00+00:00",
+            "estimated": "2022-01-31T21:07:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1898",
+            "iata": "UA1898",
+            "icao": "UAL1898",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B8",
+            "delay": 21,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Birmingham",
+            "timezone": "America/Chicago",
+            "iata": "BHM",
+            "icao": "KBHM",
+            "terminal": null,
+            "gate": "C4",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T21:28:00+00:00",
+            "estimated": "2022-01-31T21:28:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "4646",
+            "iata": "UA4646",
+            "icao": "UAL4646",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A77",
+            "delay": 21,
+            "scheduled": "2022-01-31T17:45:00+00:00",
+            "estimated": "2022-01-31T17:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Hector Field",
+            "timezone": "America/Chicago",
+            "iata": "FAR",
+            "icao": "KFAR",
+            "terminal": null,
+            "gate": "4",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:50:00+00:00",
+            "estimated": "2022-01-31T20:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "5589",
+            "iata": "UA5589",
+            "icao": "UAL5589",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B44",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:47:00+00:00",
+            "estimated": "2022-01-31T17:47:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tampa International",
+            "timezone": "America/New_York",
+            "iata": "TPA",
+            "icao": "KTPA",
+            "terminal": null,
+            "gate": "A7",
+            "baggage": "02",
+            "delay": null,
+            "scheduled": "2022-01-31T23:17:00+00:00",
+            "estimated": "2022-01-31T23:17:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1460",
+            "iata": "UA1460",
+            "icao": "UAL1460",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B26",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:50:00+00:00",
+            "estimated": "2022-01-31T17:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Memphis International",
+            "timezone": "America/Chicago",
+            "iata": "MEM",
+            "icao": "KMEM",
+            "terminal": "C",
+            "gate": "C16",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T21:05:00+00:00",
+            "estimated": "2022-01-31T21:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "641",
+            "iata": "UA641",
+            "icao": "UAL641",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B45",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:50:00+00:00",
+            "estimated": "2022-01-31T17:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Raleigh-durham International Airport",
+            "timezone": "America/New_York",
+            "iata": "RDU",
+            "icao": "KRDU",
+            "terminal": "2",
+            "gate": "D20",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T23:06:00+00:00",
+            "estimated": "2022-01-31T23:06:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1417",
+            "iata": "UA1417",
+            "icao": "UAL1417",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B23",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:50:00+00:00",
+            "estimated": "2022-01-31T17:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Dane County Regional",
+            "timezone": "America/Chicago",
+            "iata": "MSN",
+            "icao": "KMSN",
+            "terminal": null,
+            "gate": "4",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:59:00+00:00",
+            "estimated": "2022-01-31T20:59:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "1967",
+            "iata": "UA1967",
+            "icao": "UAL1967",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C33",
+            "delay": null,
+            "scheduled": "2022-01-31T18:05:00+00:00",
+            "estimated": "2022-01-31T18:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Love Field",
+            "timezone": "America/Chicago",
+            "iata": "DAL",
+            "icao": "KDAL",
+            "terminal": "1",
+            "gate": "14",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T21:05:00+00:00",
+            "estimated": "2022-01-31T21:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "1869",
+            "iata": "WN1869",
+            "icao": "SWA1869",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B43",
+            "delay": 28,
+            "scheduled": "2022-01-31T13:35:00+00:00",
+            "estimated": "2022-01-31T13:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": "7",
+            "gate": "73",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2022-01-31T15:08:00+00:00",
+            "estimated": "2022-01-31T15:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5057",
+            "iata": "AC5057",
+            "icao": "ACA5057",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "403",
+                "flight_iata": "ua403",
+                "flight_icao": "ual403"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B43",
+            "delay": 28,
+            "scheduled": "2022-01-31T13:35:00+00:00",
+            "estimated": "2022-01-31T13:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": "7",
+            "gate": "73",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2022-01-31T15:08:00+00:00",
+            "estimated": "2022-01-31T15:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "SA AVIANCA",
+            "iata": "AV",
+            "icao": "AVA"
+        },
+        "flight": {
+            "number": "2045",
+            "iata": "AV2045",
+            "icao": "AVA2045",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "403",
+                "flight_iata": "ua403",
+                "flight_icao": "ual403"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B43",
+            "delay": 28,
+            "scheduled": "2022-01-31T13:35:00+00:00",
+            "estimated": "2022-01-31T13:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": "7",
+            "gate": "73",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2022-01-31T15:08:00+00:00",
+            "estimated": "2022-01-31T15:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air New Zealand",
+            "iata": "NZ",
+            "icao": "ANZ"
+        },
+        "flight": {
+            "number": "9491",
+            "iata": "NZ9491",
+            "icao": "ANZ9491",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "403",
+                "flight_iata": "ua403",
+                "flight_icao": "ual403"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B44",
+            "delay": 2,
+            "scheduled": "2022-01-31T13:35:00+00:00",
+            "estimated": "2022-01-31T13:35:00+00:00",
+            "actual": "2022-01-31T13:36:00+00:00",
+            "estimated_runway": "2022-01-31T13:36:00+00:00",
+            "actual_runway": "2022-01-31T13:36:00+00:00"
+        },
+        "arrival": {
+            "airport": "Cancún International",
+            "timezone": "America/Cancun",
+            "iata": "CUN",
+            "icao": "MMUN",
+            "terminal": "3",
+            "gate": "34",
+            "baggage": "9",
+            "delay": null,
+            "scheduled": "2022-01-31T19:28:00+00:00",
+            "estimated": "2022-01-31T19:28:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5830",
+            "iata": "AC5830",
+            "icao": "ACA5830",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1971",
+                "flight_iata": "ua1971",
+                "flight_icao": "ual1971"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B24",
+            "delay": 13,
+            "scheduled": "2022-01-31T13:37:00+00:00",
+            "estimated": "2022-01-31T13:37:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E8",
+            "baggage": "E4",
+            "delay": null,
+            "scheduled": "2022-01-31T16:35:00+00:00",
+            "estimated": "2022-01-31T16:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5776",
+            "iata": "AC5776",
+            "icao": "ACA5776",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "337",
+                "flight_iata": "ua337",
+                "flight_icao": "ual337"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B28",
+            "delay": 17,
+            "scheduled": "2022-01-31T17:50:00+00:00",
+            "estimated": "2022-01-31T17:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Newark Liberty International",
+            "timezone": "America/New_York",
+            "iata": "EWR",
+            "icao": "KEWR",
+            "terminal": "C",
+            "gate": "96",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2022-01-31T23:31:00+00:00",
+            "estimated": "2022-01-31T23:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "2488",
+            "iata": "UA2488",
+            "icao": "UAL2488",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B44",
+            "delay": 13,
+            "scheduled": "2022-01-31T15:55:00+00:00",
+            "estimated": "2022-01-31T15:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Sacramento International",
+            "timezone": "America/Los_Angeles",
+            "iata": "SMF",
+            "icao": "KSMF",
+            "terminal": "A",
+            "gate": "15",
+            "baggage": "A2",
+            "delay": null,
+            "scheduled": "2022-01-31T17:32:00+00:00",
+            "estimated": "2022-01-31T17:32:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Lufthansa",
+            "iata": "LH",
+            "icao": "DLH"
+        },
+        "flight": {
+            "number": "7812",
+            "iata": "LH7812",
+            "icao": "DLH7812",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "600",
+                "flight_iata": "ua600",
+                "flight_icao": "ual600"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "C35",
+            "delay": null,
+            "scheduled": "2022-01-31T19:10:00+00:00",
+            "estimated": "2022-01-31T19:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Orlando International",
+            "timezone": "America/New_York",
+            "iata": "MCO",
+            "icao": "KMCO",
+            "terminal": "A",
+            "gate": "127",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-02-01T00:35:00+00:00",
+            "estimated": "2022-02-01T00:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Southwest Airlines",
+            "iata": "WN",
+            "icao": "SWA"
+        },
+        "flight": {
+            "number": "2537",
+            "iata": "WN2537",
+            "icao": "SWA2537",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B53",
+            "delay": 18,
+            "scheduled": "2022-01-31T15:45:00+00:00",
+            "estimated": "2022-01-31T15:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Boise Air Terminal/Gowen Field",
+            "timezone": "America/Boise",
+            "iata": "BOI",
+            "icao": "KBOI",
+            "terminal": null,
+            "gate": "B11",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T17:59:00+00:00",
+            "estimated": "2022-01-31T17:59:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "5688",
+            "iata": "UA5688",
+            "icao": "UAL5688",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B16",
+            "delay": 15,
+            "scheduled": "2022-01-31T19:25:00+00:00",
+            "estimated": "2022-01-31T19:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Palm Springs Metropolitan Area",
+            "timezone": "America/Los_Angeles",
+            "iata": "PSP",
+            "icao": "KPSP",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T20:40:00+00:00",
+            "estimated": "2022-01-31T20:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "282",
+            "iata": "UA282",
+            "icao": "UAL282",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B60",
+            "delay": 30,
+            "scheduled": "2022-01-31T10:05:00+00:00",
+            "estimated": "2022-01-31T10:05:00+00:00",
+            "actual": "2022-01-31T10:39:00+00:00",
+            "estimated_runway": "2022-01-31T10:39:00+00:00",
+            "actual_runway": "2022-01-31T10:39:00+00:00"
+        },
+        "arrival": {
+            "airport": "Will Rogers World Airport",
+            "timezone": "America/Chicago",
+            "iata": "OKC",
+            "icao": "KOKC",
+            "terminal": "S",
+            "gate": "10",
+            "baggage": "6",
+            "delay": 9,
+            "scheduled": "2022-01-31T12:47:00+00:00",
+            "estimated": "2022-01-31T12:47:00+00:00",
+            "actual": "2022-01-31T12:56:00+00:00",
+            "estimated_runway": "2022-01-31T12:56:00+00:00",
+            "actual_runway": "2022-01-31T12:56:00+00:00"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5739",
+            "iata": "AC5739",
+            "icao": "ACA5739",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "5584",
+                "flight_iata": "ua5584",
+                "flight_icao": "ual5584"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B50",
+            "delay": 8,
+            "scheduled": "2022-01-31T18:50:00+00:00",
+            "estimated": "2022-01-31T18:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Aspen",
+            "timezone": "America/Denver",
+            "iata": "ASE",
+            "icao": "KASE",
+            "terminal": "8",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T19:44:00+00:00",
+            "estimated": "2022-01-31T19:44:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Copa Airlines",
+            "iata": "CM",
+            "icao": "CMP"
+        },
+        "flight": {
+            "number": "1023",
+            "iata": "CM1023",
+            "icao": "CMP1023",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "5597",
+                "flight_iata": "ua5597",
+                "flight_icao": "ual5597"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A28",
+            "delay": 1,
+            "scheduled": "2022-01-31T11:04:00+00:00",
+            "estimated": "2022-01-31T11:04:00+00:00",
+            "actual": "2022-01-31T11:05:00+00:00",
+            "estimated_runway": "2022-01-31T11:05:00+00:00",
+            "actual_runway": "2022-01-31T11:05:00+00:00"
+        },
+        "arrival": {
+            "airport": "Salt Lake City International",
+            "timezone": "America/Denver",
+            "iata": "SLC",
+            "icao": "KSLC",
+            "terminal": "4",
+            "gate": "B6",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T12:40:00+00:00",
+            "estimated": "2022-01-31T12:40:00+00:00",
+            "actual": "2022-01-31T12:29:00+00:00",
+            "estimated_runway": "2022-01-31T12:29:00+00:00",
+            "actual_runway": "2022-01-31T12:29:00+00:00"
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        },
+        "flight": {
+            "number": "2529",
+            "iata": "DL2529",
+            "icao": "DAL2529",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A36",
+            "delay": 13,
+            "scheduled": "2022-01-31T17:08:00+00:00",
+            "estimated": "2022-01-31T17:08:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Sacramento International",
+            "timezone": "America/Los_Angeles",
+            "iata": "SMF",
+            "icao": "KSMF",
+            "terminal": "B",
+            "gate": "22",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2022-01-31T18:52:00+00:00",
+            "estimated": "2022-01-31T18:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Volaris",
+            "iata": "Y4",
+            "icao": "VOI"
+        },
+        "flight": {
+            "number": "2273",
+            "iata": "Y42273",
+            "icao": "VOI2273",
+            "codeshared": {
+                "airline_name": "frontier airlines",
+                "airline_iata": "f9",
+                "airline_icao": "fft",
+                "flight_number": "627",
+                "flight_iata": "f9627",
+                "flight_icao": "fft627"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "A35",
+            "delay": 6,
+            "scheduled": "2022-01-31T09:45:00+00:00",
+            "estimated": "2022-01-31T09:45:00+00:00",
+            "actual": "2022-01-31T09:51:00+00:00",
+            "estimated_runway": "2022-01-31T09:51:00+00:00",
+            "actual_runway": "2022-01-31T09:51:00+00:00"
+        },
+        "arrival": {
+            "airport": "Austin-bergstrom International",
+            "timezone": "America/Chicago",
+            "iata": "AUS",
+            "icao": "KAUS",
+            "terminal": "1",
+            "gate": "27",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2022-01-31T12:54:00+00:00",
+            "estimated": "2022-01-31T12:54:00+00:00",
+            "actual": "2022-01-31T12:49:00+00:00",
+            "estimated_runway": "2022-01-31T12:49:00+00:00",
+            "actual_runway": "2022-01-31T12:49:00+00:00"
+        },
+        "airline": {
+            "name": "Air Canada",
+            "iata": "AC",
+            "icao": "ACA"
+        },
+        "flight": {
+            "number": "5099",
+            "iata": "AC5099",
+            "icao": "ACA5099",
+            "codeshared": {
+                "airline_name": "united airlines",
+                "airline_iata": "ua",
+                "airline_icao": "ual",
+                "flight_number": "1026",
+                "flight_iata": "ua1026",
+                "flight_icao": "ual1026"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B80",
+            "delay": 18,
+            "scheduled": "2022-01-31T15:00:00+00:00",
+            "estimated": "2022-01-31T15:00:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Fort Dodge Regional",
+            "timezone": "America/Chicago",
+            "iata": "FOD",
+            "icao": "KFOD",
+            "terminal": "2",
+            "gate": "1",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T17:49:00+00:00",
+            "estimated": "2022-01-31T17:49:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "5204",
+            "iata": "UA5204",
+            "icao": "UAL5204",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2022-01-31",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Denver International",
+            "timezone": "America/Denver",
+            "iata": "DEN",
+            "icao": "KDEN",
+            "terminal": null,
+            "gate": "B88",
+            "delay": 27,
+            "scheduled": "2022-01-31T11:15:00+00:00",
+            "estimated": "2022-01-31T11:15:00+00:00",
+            "actual": "2022-01-31T11:42:00+00:00",
+            "estimated_runway": "2022-01-31T11:42:00+00:00",
+            "actual_runway": "2022-01-31T11:42:00+00:00"
+        },
+        "arrival": {
+            "airport": "Albuquerque International",
+            "timezone": "America/Denver",
+            "iata": "ABQ",
+            "icao": "KABQ",
+            "terminal": "4",
+            "gate": "A2",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2022-01-31T12:46:00+00:00",
+            "estimated": "2022-01-31T12:46:00+00:00",
+            "actual": "2022-01-31T12:37:00+00:00",
+            "estimated_runway": "2022-01-31T12:37:00+00:00",
+            "actual_runway": "2022-01-31T12:37:00+00:00"
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "4876",
+            "iata": "UA4876",
+            "icao": "UAL4876",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    }
+]
