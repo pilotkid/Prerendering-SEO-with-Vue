@@ -8,12 +8,12 @@ if (process.env.NODE_ENV === 'production') {
 	plugins.unshift(
 		new PrerenderPlugin({
 			staticDir: join(__dirname, 'dist'),
-			routes: ['/dynamic', '/'],
+			routes: ['/noindex', '/dynamic', '/'],
 			renderer: new renderer({
+				injectProperty: 'isPrerendering',
+				inject: true,
+
 				renderAfterDocumentEvent: 'render-complete',
-				headless: false,
-				// renderAfterTime: 5 * 60 * 60 * 1000,
-				maxConcurrentRoutes: 1,
 			}),
 		})
 	);
