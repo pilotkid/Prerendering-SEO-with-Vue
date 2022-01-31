@@ -27,6 +27,7 @@ export default {
 				this.denFlightsDepart = data.data;
 				this.$nextTick(() => {
 					this.loading = false;
+					document.dispatchEvent(new Event('render-complete'));
 				});
 			});
 	},

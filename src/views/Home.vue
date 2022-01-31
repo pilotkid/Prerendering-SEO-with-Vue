@@ -139,7 +139,7 @@ export default {
 		};
 	},
 	mounted() {
-		console.debug(process.env.VUE_APP_APIKEY);
+		document.dispatchEvent(new Event('render-complete'));
 	},
 };
 </script>
