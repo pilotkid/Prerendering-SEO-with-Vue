@@ -138,9 +138,6 @@ export default {
 			sliderPosition: 0.5,
 		};
 	},
-	mounted() {
-		console.debug(process.env.VUE_APP_APIKEY);
-	},
 };
 </script>
 <style>
