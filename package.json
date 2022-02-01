@@ -13,6 +13,7 @@
     "dayjs": "^1.10.7",
     "vue": "^2.6.11",
     "vue-compare-image": "^0.2.0",
+    "vue-meta": "^2.4.0",
     "vue-router": "^3.2.0",
     "vue-typer": "^1.2.0",
     "vuetify": "^2.4.0",

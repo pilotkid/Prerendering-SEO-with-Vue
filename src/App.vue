@@ -24,6 +24,29 @@ import TheFooter from './components/TheFooter';
 
 export default {
 	name: 'App',
+	metaInfo() {
+		return {
+			title: 'SEO Demo',
+			meta: [
+				{
+					vmid: 'description',
+					name: 'description',
+					content:
+						'This is a demo site that shows off pre-rendering and SEO with vue.',
+				},
+				{
+					name: 'keywords',
+					content:
+						'vue, prerendering, seo, optimization, seo optimization, vue seo, vue seo optimization',
+				},
+				{
+					vmid: 'robots',
+					name: 'robots',
+					content: 'all',
+				},
+			],
+		};
+	},
 	components: {
 		TheHeader,
 		TheFooter,

@@ -9,6 +9,29 @@
 import axios from 'axios';
 import FlightTable from '../components/FlightTable.vue';
 export default {
+	metaInfo() {
+		return {
+			title: 'Flights out of Denver',
+			meta: [
+				{
+					vmid: 'description',
+					name: 'description',
+					content:
+						'This is a list of all the flights coming out of denver Today.',
+				},
+				{
+					name: 'keywords',
+					content:
+						'DIA, Denver airport, Denver International, Flight status, all flights, united, american, frontier',
+				},
+				{
+					vmid: 'robots',
+					name: 'robots',
+					content: 'all',
+				},
+			],
+		};
+	},
 	components: { FlightTable },
 
 	data() {

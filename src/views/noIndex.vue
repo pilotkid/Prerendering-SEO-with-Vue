@@ -23,6 +23,18 @@
 </template>
 <script>
 export default {
+	metaInfo() {
+		return {
+			title: 'Do not show up on search',
+			meta: [
+				{
+					vmid: 'robots',
+					name: 'robots',
+					content: 'none,noindex',
+				},
+			],
+		};
+	},
 	data() {
 		return {
 			sliderValue: 1,
